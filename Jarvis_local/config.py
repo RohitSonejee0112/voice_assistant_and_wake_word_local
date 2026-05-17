@@ -25,5 +25,5 @@ OWW_THRESHOLD = 0.5
 INPUT_DEVICE = 1
 OUTPUT_DEVICE = 4
 
-# Session timeout in seconds (45 = 45 seconds of silence ends session)
+# Session timeout in seconds (150 = 150 seconds of silence ends session)
 SESSION_TIMEOUT = 150
